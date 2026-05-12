@@ -4,8 +4,6 @@ A lightweight, self-contained queue ticket system for small offices, clinics, se
 
 ![Screenshot Queue Display](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/screenshot-display.png)
 
-![Screenshot My Ticket](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/screenshot-your-ticket.png)
-
 ## Features
 
 - **Take-a-number kiosk** — customers tap a department on a touchscreen and a numbered ticket prints automatically.
@@ -96,3 +94,5 @@ Once setup completes, restart the queue system on port 443 and your customers ca
 ## License
 
 [Unlicense](https://unlicense.org/) — Public Domain Freeware. Use it, modify it, sell it, embed it. No attribution required, no warranty given.
+
+![Screenshot My Ticket](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/screenshot-your-ticket.png)
