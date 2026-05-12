@@ -72,6 +72,8 @@ These are one-time setup steps the office's IT person needs to do:
 
 ## HTTPS Setup (Optional)
 
+![QMS SSL Setup](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/QMS-SSL-Setup.png)
+
 If you want customers to reach your queue system over the public internet on a real domain (e.g. `https://queue.your-office.com`), the included **QMS SSL Setup** Windows utility automates the certificate process for you.
 
 **What it does in one click:**
