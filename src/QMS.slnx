@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="QMS/QMS.csproj" />
-  <Project Path="QMS_SSL_Setup/QMS_SSL_Setup.csproj" />
+  <Project Path="QMS/QMS.csproj" Id="449ab37c-dea0-456d-b1ef-e43857924c46" />
+  <Project Path="QMS_SSL_Setup/QMS_SSL_Setup.csproj" Id="f334bbdd-db4f-4b2e-962e-14294817f344" />
 </Solution>
