@@ -2,6 +2,10 @@
 
 A lightweight, self-contained queue ticket system for small offices, clinics, service counters, and customer-facing front desks — runs as a single Windows console application.
 
+![Screenshot Queue Display](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/screenshot-display.png)
+
+![Screenshot My Ticket](https://raw.githubusercontent.com/adriancs2/Queue-Management-System/refs/heads/main/wiki/screenshot-your-ticket.png)
+
 ## Features
 
 - **Take-a-number kiosk** — customers tap a department on a touchscreen and a numbered ticket prints automatically.
