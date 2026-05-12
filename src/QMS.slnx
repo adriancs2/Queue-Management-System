@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QMS/QMS.csproj" />
+  <Project Path="QMS_SSL_Setup/QMS_SSL_Setup.csproj" />
+</Solution>
